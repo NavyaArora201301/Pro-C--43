@@ -1,0 +1,9 @@
+class Sun{
+    constructor(){
+
+    }
+
+    draw(){
+        
+    }
+}
